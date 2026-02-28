@@ -8,6 +8,9 @@ Este repositório apresenta meu **Mapa de Habilidades** em 3 etapas:
 
 O objetivo é identificar minhas competências, entender onde elas geram valor no mercado e definir formas práticas de transformar isso em oportunidades profissionais e renda.
 
+📌 **Observação:** O **PDF completo do projeto está anexado neste repositório**.  
+👉 [Clique aqui para abrir o PDF](./Mapa%20de%20Habilidades_Rafa%20Francisco_Bootcamp%20CAIXA_DIO.pdf)
+
 ---
 
 ## ✅ Etapa 1 — Inventário de Habilidades
